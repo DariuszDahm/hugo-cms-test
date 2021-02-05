@@ -6,8 +6,6 @@ image: img/about-direct-sourcing.jpg
 ---
 <!--StartFragment-->
 
-![]()
-
 <!--EndFragment-->
 
 <!--StartFragment-->
@@ -32,10 +30,3 @@ Standardowy blok Lorem Ipsum, używany od XV wieku, jest odtworzony niżej dla z
 
 <!--EndFragment-->
 
-```
-
-```
-
-```
-
-```
